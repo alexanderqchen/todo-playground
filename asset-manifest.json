@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/todo-playground/static/js/main.da0d6e0f.chunk.js",
+    "main.js.map": "/todo-playground/static/js/main.da0d6e0f.chunk.js.map",
+    "runtime~main.js": "/todo-playground/static/js/runtime~main.66366e5a.js",
+    "runtime~main.js.map": "/todo-playground/static/js/runtime~main.66366e5a.js.map",
+    "static/js/2.818d4288.chunk.js": "/todo-playground/static/js/2.818d4288.chunk.js",
+    "static/js/2.818d4288.chunk.js.map": "/todo-playground/static/js/2.818d4288.chunk.js.map",
+    "index.html": "/todo-playground/index.html",
+    "precache-manifest.690d35fd9446f9848f52a7b4e3f960b2.js": "/todo-playground/precache-manifest.690d35fd9446f9848f52a7b4e3f960b2.js",
+    "service-worker.js": "/todo-playground/service-worker.js"
+  }
+}
